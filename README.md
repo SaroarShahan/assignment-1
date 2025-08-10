@@ -1,4 +1,4 @@
-# Version Control using Git and GitHub
+## Version Control using Git and GitHub
 
 This project demonstrates basic version control workflows using Git and GitHub.  
 It covers initializing a repository, committing changes, creating and switching branches, pushing branches to a remote repository, creating pull requests, and merging those changes back into the main branch.
